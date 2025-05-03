@@ -1,4 +1,4 @@
-// File: C:\project\dstarite\my-next-app\dstarite-nextjs-tailwind\app\layout.tsx
+// File: C:\project\dstarite\my-next-app\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
